@@ -17,14 +17,15 @@ Welcome to my profile!
 
 ## Github Stats
 
-<p> <img src=https://komarev.com/ghpvc/?username=SamuelBenedix alt=SamuelBenedix /> <img src="https://visitor-badge.laobi.icu/badge?page_id=SamuelBenedix" alt=""/></p>
+<p> <img src=https://komarev.com/ghpvc/?username=SamuelBenedix- alt=SamuelBenedix /> <img src="https://visitor-badge.laobi.icu/badge?page_id=SamuelBenedix" alt=""/></p>
 
 <a href="https://github.com/SamuelBenedix/SamuelBenedix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBenedix&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBenedix&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=ffa83fF&bg_color=1d1f21&hide_border=true" />
 </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelbenedix&repo=github-readme-stats)](https://github.com/samuelbenedix/github-readme-stats)
 
 <a href="https://github.com/SamuelBenedix/SamuelBenedix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelBenedix&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelBenedix&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffa83f&bg_color=1d1f21&hide_border=true" alt="Catalin's GitHub Stats" />
 </a>
 
 ### Languages and Tools:
