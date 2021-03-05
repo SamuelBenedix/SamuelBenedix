@@ -17,8 +17,7 @@ Welcome to my profile!
 
 ## Github Stats
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=SamuelBenedix alt=SamuelBenedix /> </p>
-<p><img src="https://visitor-badge.laobi.icu/badge?page_id=SamuelBenedix" alt=""/></p>
+<p> <img src=https://komarev.com/ghpvc/?username=SamuelBenedix alt=SamuelBenedix /> <img src="https://visitor-badge.laobi.icu/badge?page_id=SamuelBenedix" alt=""/></p>
 
 <a href="https://github.com/SamuelBenedix/SamuelBenedix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBenedix&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
