@@ -11,9 +11,9 @@ Welcome to my profile!
 
 ## Get in touch
 
-- Linkedin: https://www.linkedin.com/in/samuelbenedix/
-- Behance: https://www.behance.net/samuelben
-- Instagram: https://www.behance.net/samben.id
+- Behance : [![Behance Badge](https://img.shields.io/badge/samuelben-grey?style=flat&logo=behance&logoColor=white&link=https://behance.com/samuelben/)](https://www.behance.net/samuelben)
+- Linkedin : [![Linkedin Badge](https://img.shields.io/badge/-SamuelBenedict-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelbenedix/)](https://www.linkedin.com/in/samuelbenedix/)
+- Instagram: [![Instagram Badge](https://img.shields.io/badge/-SamuelBenedix-?style=flat&logo=Linkedin&logoColor=white&link=https://www.instagram.com/samuelbenedix/)](https://www.instagram.com/samuelbenedix/)
 
 ## Github Stats
 
@@ -21,8 +21,6 @@ Welcome to my profile!
 <img src=https://komarev.com/ghpvc/?username=samuelbenedix alt=samuelbenedix /> 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=samuelbenedix" alt=""/>
 </p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelbenedix&repo=github-readme-stats)](https://github.com/samuelbenedix/assets-css-design)
 
 <a href="https://github.com/samuelbenedix/samuelbenedix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbenedix&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=ffa83fF&bg_color=1d1f21&hide_border=true" />
