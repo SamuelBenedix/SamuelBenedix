@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Sam
 
-[![Gmail Badge](https://img.shields.io/badge/samben.id@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:samben.id@gmail.com)](mailto:samben.id0@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-SamuelBenedict-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelbenedix/)](https://www.linkedin.com/in/samuelbenedix/)
-[![Github Badge](https://img.shields.io/badge/samuelbenedix-grey?style=flat&logo=github&logoColor=white&link=https://github.com/samuelbenedix/)](https://www.github.com/samuelbenedix/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samben.id0@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelbenedix/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/samuelbenedix/)
 
 Welcome to my profile!
 
@@ -11,9 +11,13 @@ Welcome to my profile!
 
 ## Get in touch
 
-- Behance : [![Behance Badge](https://img.shields.io/badge/samuelben-grey?style=flat&logo=behance&logoColor=white&link=https://behance.com/samuelben/)](https://www.behance.net/samuelben)
-- Linkedin : [![Linkedin Badge](https://img.shields.io/badge/-SamuelBenedict-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelbenedix/)](https://www.linkedin.com/in/samuelbenedix/)
-- Instagram: [![Instagram Badge](https://img.shields.io/badge/-SamuelBenedix-?style=flat&logo=Linkedin&logoColor=white&link=https://www.instagram.com/samuelbenedix/)](https://www.instagram.com/samuelbenedix/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelbenedix/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/samuelbenedix/)
+[![Behance Badge](https://img.shields.io/badge/FIRST--#1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/samuelben)
+
+- Behance :https://www.behance.net/samuelben
+- Linkedin : https://www.linkedin.com/in/samuelbenedix/
+- Instagram: https://www.instagram.com/samuelbenedix/
 
 ## Github Stats
 
@@ -29,17 +33,22 @@ Welcome to my profile!
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="Php" width="26px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" alt="Npm" width="26px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img align="left" alt="Sass" width="26px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img align="left" alt="JavaScript" width="26px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="React" width="26px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" alt="Node.js" width="26px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white/">
+<img align="left" alt="MySQL" width="26px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="Bootstrap" width="26px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="left" alt="Jquery" width="26px" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/laravel/laravel.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" alt="Git" width="26px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img align="left" alt="CodeIgniter" width="26px" src="hhttps://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img align="left" alt="Laravel" width="26px" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 <!-- - 🔭 I’m currently working on ... -->
 
