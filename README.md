@@ -13,7 +13,8 @@ Welcome to my profile!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelbenedix/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/samuelbenedix/)
-[![Behance Badge](https://img.shields.io/badge/first-#1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/samuelben)
+[![Behance Badge](https://img.shields.io/badge/Behance-#1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/samuelben)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelbenedix/)
 
 - Behance :https://www.behance.net/samuelben
 - Linkedin : https://www.linkedin.com/in/samuelbenedix/
