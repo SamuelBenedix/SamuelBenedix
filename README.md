@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/samben.id@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:samben.id@gmail.com)](mailto:samben.id0@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-SamuelBenedict-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelbenedix/)](https://www.linkedin.com/in/samuelbenedix/)
-[![Github Badge](https://img.shields.io/badge/SamuelBenedix-grey?style=flat&logo=github&logoColor=white&link=https://github.com/SamuelBenedix/)](https://www.github.com/SamuelBenedix/)
+[![Github Badge](https://img.shields.io/badge/samuelbenedix-grey?style=flat&logo=github&logoColor=white&link=https://github.com/samuelbenedix/)](https://www.github.com/samuelbenedix/)
 
 Welcome to my profile!
 
@@ -17,15 +17,14 @@ Welcome to my profile!
 
 ## Github Stats
 
-<p> <img src=https://komarev.com/ghpvc/?username=SamuelBenedix- alt=SamuelBenedix /> <img src="https://visitor-badge.laobi.icu/badge?page_id=SamuelBenedix" alt=""/></p>
+<p> 
+<img src=https://komarev.com/ghpvc/?username=samuelbenedix- alt=samuelbenedix /> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=samuelbenedix" alt=""/>
+</p>
 
-<a href="https://github.com/SamuelBenedix/SamuelBenedix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBenedix&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=ffa83fF&bg_color=1d1f21&hide_border=true" />
-</a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelbenedix&repo=github-readme-stats)](https://github.com/samuelbenedix/github-readme-stats)
-
-<a href="https://github.com/SamuelBenedix/SamuelBenedix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelBenedix&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffa83f&bg_color=1d1f21&hide_border=true" alt="Catalin's GitHub Stats" />
+<a href="https://github.com/samuelbenedix/samuelbenedix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbenedix&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=ffa83fF&bg_color=1d1f21&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelbenedix&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffa83f&bg_color=1d1f21&hide_border=true" alt="Catalin's GitHub Stats" />
 </a>
 
 ### Languages and Tools:
