@@ -18,7 +18,7 @@ Welcome to my profile!
 ## Github Stats
 
 <p> 
-<img src=https://komarev.com/ghpvc/?username=samuelbenedix- alt=samuelbenedix /> 
+<img src=https://komarev.com/ghpvc/?username=samuelbenedix alt=samuelbenedix /> 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=samuelbenedix" alt=""/>
 </p>
 
