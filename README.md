@@ -28,7 +28,7 @@ Welcome to my profile!
 </p>
 
 <a href="https://github.com/samuelbenedix/samuelbenedix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbenedix&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=ffa83fF&bg_color=1d1f21&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbenedix&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=ffa83fF&bg_color=1d1f21&hide_border=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelbenedix&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffa83f&bg_color=1d1f21&hide_border=true" alt="Catalin's GitHub Stats" />
 </a>
 
