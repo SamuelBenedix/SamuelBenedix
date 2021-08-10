@@ -6,8 +6,8 @@
 
 Welcome to my profile!
 
-- 🌱 I’m currently learning React,Js
-- 🥅 2021 Goals: Pro in React.js
+- 🌱 I’m currently learning React,Js & React Native
+- 🥅 2021 Goals: Pro in React.js & React Native
 
 ## Get in touch
 
