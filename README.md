@@ -6,8 +6,7 @@
 
 Welcome to my profile!
 
-- 🌱 I’m currently learning React,Js & React Native
-- 🥅 2021 Goals: Pro in React.js & React Native
+- 🥅 2021 Goals: Make Youtube Channel
 
 ## Get in touch
 
@@ -45,6 +44,7 @@ Welcome to my profile!
 <!-- - 🔭 I’m currently working on ... -->
 
 <!-- - 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning React,Js & React Native
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
