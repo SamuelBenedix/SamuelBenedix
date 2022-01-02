@@ -6,7 +6,7 @@
 
 Welcome to my profile!
 
-- 🥅 2021 Goals: Make Youtube Channel
+- 🥅 2022 Goals: Make Youtube Channel
 
 ## Get in touch
 
