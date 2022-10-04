@@ -6,7 +6,7 @@
 
 Welcome to my profile!
 
-- 🥅 2022 Goals: Make Youtube Channel
+- 🥅 Lean Typescript, Test with Typescript and Go
 
 ## Get in touch
 
