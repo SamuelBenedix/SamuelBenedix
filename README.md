@@ -50,3 +50,10 @@ Welcome to my profile!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+<div align='center'>
+  
+</div>
+
+
+![snake gif](https://github.com/SamuelBenedix/SamuelBenedix/blob/output/github-snake-dark.svg)
